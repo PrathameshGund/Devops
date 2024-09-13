@@ -11,10 +11,6 @@
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [AWS Services](#aws-services)
-- [Application Structure](#application-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Architecture
 
@@ -45,5 +41,11 @@ The architecture of the **vProfile** multi-server application follows a microser
 - Java 8 or higher
 - Maven
 - Git
+  
+##Configure AWS Services
+
+Set up AWS RDS with MySQL.
+Set up S3 bucket for asset storage.
+Configure Elastic Beanstalk for the application.
 
 
