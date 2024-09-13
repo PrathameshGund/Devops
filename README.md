@@ -46,9 +46,4 @@ The architecture of the **vProfile** multi-server application follows a microser
 - Maven
 - Git
 
-### Steps to Deploy
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/vprofile-multiserver.git
-   cd vprofile-multiserver
