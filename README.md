@@ -42,7 +42,7 @@ The architecture of the **vProfile** multi-server application follows a microser
 - Maven
 - Git
   
-##Configure AWS Services
+## Configure AWS Services
 
 - Set up AWS RDS with MySQL.
 - Set up S3 bucket for asset storage.
