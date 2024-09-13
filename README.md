@@ -1,4 +1,4 @@
---vProfile Multi-Server Application
+#VProfile Multi-Server Application
 Overview
 vProfile is a cloud-based multi-server application designed to demonstrate the deployment of a scalable and reliable system using various AWS services. The project showcases a fully functional infrastructure using AWS Beanstalk, Memcache, RabbitMQ, S3, IAM roles, CloudWatch, and RDS for seamless deployment and management.
 
