@@ -44,8 +44,8 @@ The architecture of the **vProfile** multi-server application follows a microser
   
 ##Configure AWS Services
 
-Set up AWS RDS with MySQL.
-Set up S3 bucket for asset storage.
-Configure Elastic Beanstalk for the application.
+- Set up AWS RDS with MySQL.
+- Set up S3 bucket for asset storage.
+- Configure Elastic Beanstalk for the application.
 
 
